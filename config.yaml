@@ -65,7 +65,7 @@ proxy-groups:
   - name: "GLOBAL"
     type: select
     proxies:
-      - "debug"
+      - "debug7890"
       - "saber5_9090"
       - "saber5_8888"
       - "saber5_9000"
