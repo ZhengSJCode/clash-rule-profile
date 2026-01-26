@@ -46,7 +46,7 @@ proxies:
 
   - name: "saber5_8888"
     type: http
-    server: 192.168.67.104
+    server: 192.168.67.235
     port: 8888
 
   - name: "saber5_9000"
