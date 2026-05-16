@@ -39,7 +39,7 @@ proxies:
     server: 192.168.253.189
     port: 8888
 
-  - name: "test_9090"
+  - name: "test_8888"
     type: http
     server: 192.168.0.88
     port: 8888
@@ -65,8 +65,8 @@ proxy-groups:
   - name: "GLOBAL"
     type: select
     proxies:
-      - "debug8888"
-      - "saber5_9090"
+      - "hhhhh189-8888"
+      - "test_8888"
       - "saber5_8888"
       - "saber5_9000"
       - "home_9000"
