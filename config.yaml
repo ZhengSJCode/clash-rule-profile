@@ -36,12 +36,12 @@ dns:
 proxies:
   - name: "hhhhh189-8888"
     type: http
-    server: 192.168.253.189
+    server: 192.168.253.232
     port: 8888
 
   - name: "test_8888"
     type: http
-    server: 192.168.0.11
+    server: 192.168.0.7
     port: 8888
 
   - name: "saber5_8888"
